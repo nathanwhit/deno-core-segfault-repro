@@ -1,0 +1,7 @@
+[package]
+name = "deno-core-segfault"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+deno_core = "0.294.0"
